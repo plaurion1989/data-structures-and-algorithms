@@ -13,3 +13,5 @@ Each day, you'll add one new file to this folder to do your work for the day's a
 ### 401 Data Structures, Code Challenges
 
 - Code Challenge 01: [Array Reversed](./java/code-challenges/challenge-01/array-reversed.md)
+- Code Challenge 02: [Insert Shift Array](./java/code-challenges/challenge-02/insertShiftArray.md)
+
