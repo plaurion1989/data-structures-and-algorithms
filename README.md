@@ -14,4 +14,5 @@ Each day, you'll add one new file to this folder to do your work for the day's a
 
 - Code Challenge 01: [Array Reversed](./java/code-challenges/challenge-01/array-reversed.md)
 - Code Challenge 02: [Insert Shift Array](./java/code-challenges/challenge-02/insertShiftArray.md)
+- Code Challenge 03: [Binary Search](./java/code-challenges/challenge-03/array-binary-search.md)
 
