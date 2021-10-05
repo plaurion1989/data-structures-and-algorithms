@@ -15,6 +15,6 @@ Inserts value into the PseudoQueue, using a first-in, first-out approach
 Arguments: none
 Extracts a value from the PseudoQueue, using a first-in, first-out approach
 ## Whiteboard Process
-Decided not to initiate a white board for this challenge.
+***Too insert***
 ## Approach & Efficiency
 Having the Stacks process one operation (enqueue or dequeue) is the initial approach I intend to take. 
