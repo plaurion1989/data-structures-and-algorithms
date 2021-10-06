@@ -18,6 +18,5 @@ Return: either a dog or a cat, based on preference.
 
 If pref is not "dog" or "cat" then return null.
 ## Whiteboard Process
-***Too insert***
-## Approach & Efficiency
+![](../whiteboards/challenge-12.png)## Approach & Efficiency
 Having One Queue dedicated to both types of animals, create a class animal that processes a cat in one stack or a dog into a seperate stack, then create an enqueue function that pops from either stack and puts it into the queue.
